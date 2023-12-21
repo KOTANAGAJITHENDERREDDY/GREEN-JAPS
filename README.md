@@ -43,5 +43,4 @@ The Azure AI Language Chatbot is a cutting-edge conversational agent powered by 
 **Description**
 Here I am attaching the final working website's screenshot for the reference.
 # Final Project Statement
-The primary objective of Evergreen Solutions is to streamline and simplify the complexities often associated with routine tasks and challenges. By conducting thorough research and utilizing user-centric design principles, we aim to develop practical tools, applications, and strategies that cater to the diverse needs of individuals in their day-to-day lives.
-
+Green-japs is set to introduce an advanced Eco-friendly AI Chatbot, leveraging cutting-edge technologies on Microsoft's Azure platform, to provide personalized and context-aware interactions for gardening enthusiasts, nature lovers, and herbalists, enhancing the overall shopping experience through seamless integration with the platform's diverse product range.
