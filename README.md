@@ -34,13 +34,11 @@ Azure Storage acts as the foundational backbone for our innovative and eco-frien
 # Azure Virtual Machine
 Green-japs relies on Azure Virtual Machines (VMs) to establish a flexible and scalable computing infrastructure for our innovative and eco-friendly platform. These VMs efficiently host and manage the platform's applications, ensuring consistent and responsive performance, particularly during peak shopping periods for gardening enthusiasts, nature lovers, and herbalists. Leveraging Azure's global infrastructure, the VMs seamlessly scale to meet varying demands, optimizing resource usage and cost-effectiveness. Customized VM configurations cater to specific workloads, tailoring compute power and memory to enhance the overall shopping experience for users looking for indoor and outdoor plants, high-quality seeds, natural fertilizers, and a curated selection of Ayurvedic and medicinal herbs. Green-japs ensures the security of sensitive user data, and like VM snapshots and backups in the online shopping context, it employs measures to enhance data resilience. This infrastructure, combined with monitoring tools, guarantees a secure, high-performance environment, contributing to an exceptional online shopping experience for the Green-japs community.
 # Azure AI Service
-  **Azure ChatBot**:
+# Azure ChatBot**:
 Green-japs envisions deploying an advanced Eco-friendly AI Chatbot, harnessing the power of innovative technologies on Microsoft's Azure platform. Integrating cutting-edge natural language processing capabilities, this intelligent chatbot will facilitate dynamic and context-aware interactions for gardening enthusiasts, nature lovers, and herbalists. Through the implementation of machine learning algorithms, the chatbot will adeptly understand user queries, delivering personalized responses and assistance across various domains relevant to the diverse range of products available on our platform. Seamlessly integrated with Green-japs' services, this forward-looking chatbot ensures scalability and reliability, contributing to an even more enhanced and personalized shopping experience for our users.
-# ScreenShots
-**Azure Static Website**:
+# Azure Static Websit:
 Azure Static Website is a hosting service in Microsoft Azure designed for deploying and serving static web content. With features like global content delivery, automatic scaling, and seamless integration with Azure Storage, it provides a reliable and cost-effective solution for hosting HTML, CSS, and JavaScript-based websites with minimal configuration.
-
-**Azure ChatBot**:
+# Azure ChatBot:
 The Azure AI Language Chatbot is a cutting-edge conversational agent powered by Microsoft's Azure platform. Leveraging advanced natural language processing capabilities, it facilitates dynamic and context-aware interactions. This intelligent chatbot employs machine learning algorithms to comprehend user queries, providing personalized responses and assistance across diverse domains. Seamlessly integrating with Azure services, it ensures scalability and reliability. 
 # Working Live Project Dislay
 **Description**
