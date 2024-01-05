@@ -30,7 +30,7 @@ Green-japs is an innovative Eco-friendly platform designed to cater to the needs
 
 •	Sustainability Practices
 
-Future Enhancements:
+# Future Enhancements:
 Green-japs envisions expanding its innovative platform to become a global hub for sustainable gardening, continually enhancing the user experience, introducing cutting-edge eco-friendly products, and fostering a vibrant community that shares a passion for nurturing nature, promoting wellness, and cultivating a greener world.
 # Core Azure Services
 # Storage service :
@@ -47,11 +47,15 @@ Green-japs is poised to launch an innovative Eco-friendly AI Chatbot using advan
 # Other Azure Technologies / Services
 In the Multilingual Content Hub, Azure Monitor and Azure Application Insights collaboratively form a dynamic duo, meticulously overseeing application health and person stories.
 # Azure Monitor :
-# Real-time Performance Metrics : Monitors vital overall performance indicators, ensuring the application runs seamlessly.
-# Proactive Alerts : Issues immediately alerts on deviations from set overall performance thresholds, enabling fast responses to capability disruptions.
+# Real-time Performance Metrics :
+Monitors vital overall performance indicators, ensuring the application runs seamlessly.
+# Proactive Alerts : 
+Issues immediately alerts on deviations from set overall performance thresholds, enabling fast responses to capability disruptions.
 # Azure Application Insights :
-# User Interaction Insights : Analyzes consumer behaviors, providing distinctive facts on trips and characteristic recognition.
-# Diagnostics Precision : Traces requests comprehensively, facilitating quick identity and determination of issues at each frontend and backend degrees.
+# User Interaction Insights :
+Analyzes consumer behaviors, providing distinctive facts on trips and characteristic recognition.
+# Diagnostics Precision : 
+Traces requests comprehensively, facilitating quick identity and determination of issues at each frontend and backend degrees.
 
 # Working Live Project Dislay
 **Description**
